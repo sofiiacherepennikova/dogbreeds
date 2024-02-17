@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 3. Download the dataset and place it in the `data` directory.
 
-5. Test the classifier on a sample image by running the `predict.py` script:
+4. Run 'breeds_classifier.ipynb" notebook.
 
 ## Results
 
