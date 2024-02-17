@@ -37,10 +37,10 @@ Note! Only few breeds were selected of all 70 due to lack of the computational p
 
 ## Bonus
 
-I have an amazing dog of a very rare breed. It is Japanese Hokkaido (Ainu) dog. If I were payed everytime I am asked by the strangers, what is the breed of this "cuuutie", I would.. you know. I could also provide the statistics of common breeds confused with Yuki's. The top is (definitely) white Shiba, then Laika and sometimes a puppy of Akita. 
-This breed has hardly 5000 of representatives around the world, so this would be hard to add them to any sort of dataset (even small). 
+I have an amazing dog Yuki of a very rare breed. It is Japanese Hokkaido (Ainu) dog. If I were payed everytime I am asked by the strangers, what is the breed of this "cuuutie", I would.. you know. I could also provide the statistics of breeds frequently confused with Yuki's. The top is (definitely) white Shiba, then Laika and sometimes a puppy of Husky. 
+Hokkaido breed has hardly 5000 of representatives around the world, so this would be hard to add them to any sort of dataset (even small). 
 
-Anyway, the model agreed with the majority of people met by us in the street:
+Anyway, the model agreed with the minority (surprisingly!) of people met by us in the street:
 
-  ![Yuki]([image URL](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true))
+  ![Yuki_Is_Not_A_Husky_Please]([[Yuki_Is_Not_A_Husky_Please]]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true)https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true))
 
