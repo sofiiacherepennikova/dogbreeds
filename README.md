@@ -4,11 +4,11 @@ This repository contains a dog breeds classifier implemented using a Convolution
 
 ## Dataset
 
-The dataset used for training and testing the classifier consists of 9813 images of various dog breeds. Each image is labeled with the corresponding breed of the dog.
+The dataset used for training and testing the classifier consists of 9813 images of various dog breeds downloaded from https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set . Each image is labeled with the corresponding breed of the dog.
 
 ## Model
 
-The classifier is implemented using a CNN architecture, which is a type of deep neural network commonly used for image classification tasks. The model is trained on the dataset using the PyTorch framework.
+It consists of multiple convolutional layers followed by max pooling layers to extract features from the input images. The model then flattens the output and passes it through several dense layers with dropout regularization to classify the images into different classes. The model uses the Adam optimizer with a learning rate of 0.0001 and categorical crossentropy as the loss function.
 
 ## Usage
 
@@ -28,12 +28,6 @@ pip install -r requirements.txt
 
 3. Download the dataset and place it in the `data` directory.
 
-4. Train the classifier by running the `train.py` script:
-
-```
-python train.py
-```
-
 5. Test the classifier on a sample image by running the `predict.py` script:
 
 ```
@@ -42,12 +36,13 @@ python predict.py path/to/sample/image.jpg
 
 ## Results
 
-After training the classifier on the dataset, it achieved an accuracy of X% on the test set. The model is able to correctly classify the breed of a dog in the sample image with a confidence score of Y%.
+After training the classifier on the dataset, it achieved an accuracy of 72.5% on the test set.
 
-## Credits
+## Bonus
 
-The dataset used for this project is sourced from [XYZ](link-to-dataset).
+I have an amazing dog of a very rare breed. It is Japanese Hokkaido (Ainu) dog. If I were payed everytime I am asked by the strangers, what is the breed of this "cuuutie", I would.. you know. I could also provide the statistics of common breeds confused with Yuki's. The top is (definitely) white Shiba, then Laika and sometimes a puppy of Akita. 
+This breed has hardly 5000 of representatives around the world, so this would be hard to add them to any sort of dataset (even small). 
 
-## License
+Anyway, the model agreed with the majority of people met by us in the street:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
