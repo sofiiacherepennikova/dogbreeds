@@ -42,8 +42,8 @@ Hokkaido breed has hardly 5000 of representatives around the world, so this woul
 
 Anyway, the model agreed with the minority (surprisingly!) of people met by us in the street:
 
-  ![Yuki_Is_Not_A_Husky_Please]([[Yuki_Is_Not_A_Husky_Please]]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true)https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true))
+  ![Yuki_Is_Not_A_Husky_Please]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.jpg?raw=true])
 
 And though I wanted to stop here, I made an attempt to classify real Shiba (my friend's pet, Saya). And it was it! 
 
-![Saya_Classification]([[Saya_Classification]]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/saya.jpg?raw=true](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/saya_prediction.png?raw=true)https://github.com/sofiiacherepennikova/dogbreeds/blob/main/saya_prediction.png?raw=true))
+![Saya_Classification]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/saya_prediction.jpg?raw=true])
