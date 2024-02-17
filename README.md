@@ -30,13 +30,10 @@ pip install -r requirements.txt
 
 5. Test the classifier on a sample image by running the `predict.py` script:
 
-```
-python predict.py path/to/sample/image.jpg
-```
-
 ## Results
 
-After training the classifier on the dataset, it achieved an accuracy of 72.5% on the test set.
+After training the classifier on the dataset (20 epochs), it achieved an accuracy of 72.5% on the test set.
+Note! Only few breeds were selected of all 70 due to lack of the computational power. Training took approximately 60 mins of Apple M1 Pro chip.
 
 ## Bonus
 
