@@ -44,3 +44,6 @@ Anyway, the model agreed with the minority (surprisingly!) of people met by us i
 
   ![Yuki_Is_Not_A_Husky_Please]([[Yuki_Is_Not_A_Husky_Please]]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true)https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true))
 
+And though I wanted to stop here, I made an attempt to classify real Shiba (my friend's pet, Saya). And it was it! 
+
+![AI Truimph]([[Saya_Classification]]([https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true)https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_prediction.png?raw=true))
