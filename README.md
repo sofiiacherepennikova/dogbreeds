@@ -45,4 +45,5 @@ This breed has hardly 5000 of representatives around the world, so this would be
 
 Anyway, the model agreed with the majority of people met by us in the street:
 
+  ![Yuki]([image URL](https://github.com/sofiiacherepennikova/dogbreeds/blob/main/yuki_1.jpg?raw=true))
 
