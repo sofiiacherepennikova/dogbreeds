@@ -1,6 +1,6 @@
 # Dog Breeds Classifier
 
-This repository contains a dog breeds classifier implemented using a Convolutional Neural Network (CNN) on a dataset of 9813 dog breed images. The classifier is trained to predict the breed of a dog given an image as input.
+This repository contains a dog breeds classifier (written with a purpose to upload pic of my doggo there!) implemented using a Convolutional Neural Network (CNN) on a dataset of 9813 dog breed images. The classifier is trained to predict the breed of a dog given an image as input. In Bonus section, I check, if my Yuki is Husky or not. 
 
 ## Dataset
 
